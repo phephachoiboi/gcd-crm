@@ -1,10 +1,10 @@
-// src/App.tsx
-import React from 'react';
+import React from "react";
+import Login from "./components/Login/Login.tsx";
 
 const App = () => {
   return (
     <div>
-      <h1>Hello, World!</h1>
+      <Login />
     </div>
   );
 };
