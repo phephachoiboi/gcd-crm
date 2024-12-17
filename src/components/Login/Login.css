@@ -1,0 +1,12 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  background-color: #fffafa;
+}
+
+.login-container {
+  max-width: 100%;
+  margin: auto;
+  background-color: transparent;
+}
